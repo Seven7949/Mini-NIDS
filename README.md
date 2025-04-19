@@ -40,11 +40,4 @@ A lightweight Python-based Network Intrusion Detection System (NIDS) with built-
 
 ---
 
-### 🎯 Next Steps to Add:
-
-1. **Add a License (optional)**: You can add a license to let people know how they can use your code. For example, an MIT license.
-
-To do that:
-```bash
-touch LICENSE
 
